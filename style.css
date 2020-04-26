@@ -1,7 +1,7 @@
 body{
     margin:0;
     overflow:hidden;
-    font-family: 'Noto Sans TC', sans-serif;   
+    font-family: Microsoft JhengHei;
 }
 
 #page{
@@ -70,7 +70,7 @@ body{
 #page-card{
     display: inline-block;
     vertical-align : top;
-    width:72vw;
+    width:71vw;
     height:35vw;
     margin-left: 16vw;
     margin-top: 1vw;
@@ -80,7 +80,7 @@ body{
     position: absolute;
     background-color: black;
     opacity:0.3;
-    width:72vw;
+    width:71vw;
     height:34vw;
 }
 
