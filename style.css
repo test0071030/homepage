@@ -58,13 +58,12 @@ body{
     vertical-align : top;
     text-decoration:none;
     color:white;
-    font-weight:bold;
     font-size:1.3vw;
     margin-left:3vw;
 }
 
 .options-choice:hover{
-    color:blue;
+    font-weight:bold;
 }
 
 #page-card{
